@@ -1,0 +1,15 @@
+C:\Users\dante\Desktop\example\HW1\bin\Debug\net6.0\HW1.exe
+C:\Users\dante\Desktop\example\HW1\bin\Debug\net6.0\HW1.deps.json
+C:\Users\dante\Desktop\example\HW1\bin\Debug\net6.0\HW1.runtimeconfig.json
+C:\Users\dante\Desktop\example\HW1\bin\Debug\net6.0\HW1.dll
+C:\Users\dante\Desktop\example\HW1\bin\Debug\net6.0\ref\HW1.dll
+C:\Users\dante\Desktop\example\HW1\bin\Debug\net6.0\HW1.pdb
+C:\Users\dante\Desktop\example\HW1\obj\Debug\net6.0\HW1.csproj.AssemblyReference.cache
+C:\Users\dante\Desktop\example\HW1\obj\Debug\net6.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\Desktop\example\HW1\obj\Debug\net6.0\HW1.AssemblyInfoInputs.cache
+C:\Users\dante\Desktop\example\HW1\obj\Debug\net6.0\HW1.AssemblyInfo.cs
+C:\Users\dante\Desktop\example\HW1\obj\Debug\net6.0\HW1.csproj.CoreCompileInputs.cache
+C:\Users\dante\Desktop\example\HW1\obj\Debug\net6.0\HW1.dll
+C:\Users\dante\Desktop\example\HW1\obj\Debug\net6.0\ref\HW1.dll
+C:\Users\dante\Desktop\example\HW1\obj\Debug\net6.0\HW1.pdb
+C:\Users\dante\Desktop\example\HW1\obj\Debug\net6.0\HW1.genruntimeconfig.cache
