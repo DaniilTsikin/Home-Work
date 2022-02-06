@@ -1,12 +1,14 @@
-﻿int numberA = [N];
-count = 0;
+﻿int[] numberA = {1,42,23,432,51,65,77,88,92,103,11,12,113};
+int N = numberA.Length;
+int index = 0;
 
-while (count < 10)
+while (index < N)
 {
-    if (numberA[count] % 2 == 0)
+    if (numberA[index] % 2 == 0)
     {
-        Console.WriteLine(numberA[count]);
+        Console.WriteLine(numberA[index]);
     }
-    count++
+    index++;
 }
+
 
